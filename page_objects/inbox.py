@@ -1,0 +1,2 @@
+class inbox(object):
+    pass
